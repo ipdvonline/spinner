@@ -12,7 +12,7 @@ To add the plugin to your Cordova project, simply add the plugin from the npm re
 
 Alternatively, you can install the latest version of the plugin directly from git:
 
-    cordova plugin add https://github.com/Justin-Credible/cordova-plugin-spinner
+    cordova plugin add https://github.com/ipdvonline/spinner.git
 
 # Usage
 
